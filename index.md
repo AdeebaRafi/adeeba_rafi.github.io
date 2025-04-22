@@ -3,16 +3,28 @@ layout: homepage
 ---
 
 ## About Me
-Hi, I’m a Ph.D. candidate in Computing Science at <a href="https://www.sfu.ca/" target="_blank"> Simon Fraser University</a>, advised by Prof.<a href="https://scholar.google.ca/citations?user=19UAgLUAAAAJ&hl=en&oi=ao" target="_blank"> Mo Chen</a>. My research involves combining control theory with reinforcement learning method.
 
-Before enrolling in the Ph.D. program, I got my master's degree in Power Engineering and Engineering Thermophysics from <a href="https://www.tsinghua.edu.cn/en/" target = "_blank"> Tsinghua University</a>, and my bachelor's degree in Vehicle Engineering from <a href="https://www.jlu.edu.cn/" target = "_blank"> Jilin University</a>.
+I completed my Bachelor's in Computer Science from Hazara University, KPK, Pakistan in September 2024. I believe in consistency. I aim to improve at least 1% every day by learning something new.
 
-During my free time, I like to play badminton and listen to music to relax.
+Outside of tech, I love playing badminton — it keeps me active and fresh. I’m also trying to build a habit of reading. Currently I am reading the book *Think and Grow Rich*, and yes, I’m still on chapter 3. (Still working to build my habit of reading books :)  
+I also enjoy designing social media posters and visual content.
 
 ## Research Interests
-- **Optimal control**
-- **Reinforcement Learning** 
-- **Reach-Avoid Game**
+- Computer Science  
+- Artificial Intelligence  
+- Machine Learning  
+- Human-Computer Interaction (HCI)  
+- Robotics
 
-<!-- ## Publications and Projects -->
-{% include_relative _includes/projects.md %}
+## Coding Competitions
+I love competing not to win every time, but to keep learning. Every challenge teaches me something new, and I show up consistently because that’s how I grow.
+
+- **CS50 Puzzle Day Winner:** Solved all 9 puzzles in the event hosted by Harvard University  
+- **MIT Winter Coding Contest 2025:** Ranked 133rd out of 536 teams globally  
+- **UC Berkeley Coding Competition:** Qualified  
+- **Advent of Code 2024:** Completed all 25 days of challenges
+
+## Teaching & Volunteer Experience
+Taught Python and C++ to 100+ underprivileged students, helping them understand basic concepts and build a strong foundation.
+
+As a graphic designer, I’ve created posters and event visuals for my university since 2020 to help make STEM feel more engaging and creative.
