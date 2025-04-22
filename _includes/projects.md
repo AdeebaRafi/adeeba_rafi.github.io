@@ -1,84 +1,77 @@
-<h2 id="publications" style="margin: 2px 0px -15px;">Publications and Projects</h2>
+<h2 id="projects" style="margin: 2px 0px -15px;">Projects and Hackathons</h2>
 
 <div class="publications">
 <ol class="bibliography">
 
-
 <li>
 <div class="pub-row">
-
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/Aim2025ICRA.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">arxiv</abbr>
+    <img src="assets/img/facial-landmark.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">CV</abbr>
   </div>
-
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://arxiv.org/pdf/2409.19746">Learning Robust Policies via Interpretable Hamilton-Jacobi Reachability-Guided Disturbances</a></div>
-    <div class="author"><strong>Hanyang Hu, Xilun Zhang, Xubo Lyu, Mo Chen</strong></div>
-    <div class="periodical"><em>arxiv</em></div>
-    <!-- <div class="links">
-    <a href="https://arxiv.org/abs/2306.06534" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
-      <a href="https://arxiv.org/pdf/2306.06534.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <a href="https://github.com/Hanchao-Zhang/KTensors" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">GitHub</a>
-      <a href="https://pypi.org/project/KTensors/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Package</a>
-      <a href="assets/files/KTensors.bib" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTeX</a>
-      <strong><i style="color:#7b5aa6">arXiv.org</i></strong>
-    </div> -->
+    <div class="title"><a href="https://github.com/AdeebaRafi/Facial-Landmark-Detection">Real-Time Facial Landmark Detection</a></div>
+    <div class="author"><strong>Computer vision system for AR and emotion detection applications</strong></div>
+    <div class="periodical"><em>OpenCV, MediaPipe, Python</em></div>
   </div>
 </div>
 </li>
 
 <li>
 <div class="pub-row">
-
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/2023CoRL.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">CoRL</abbr>
+    <img src="assets/img/salon-app.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">App</abbr>
   </div>
-
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://proceedings.mlr.press/v229/lyu23a/lyu23a.pdf">Task-Oriented Koopman-Based Control with Contrastive Encoder</a></div>
-    <div class="author"><strong>Xubo Lyu, Hanyang Hu, Seth Siriya, Ye Pu, Mo Chen</strong></div>
-    <div class="periodical"><em>The 7th Conference on Robot Learning</em></div>
-    <!-- <div class="links">
-    <a href="https://arxiv.org/abs/2306.06534" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
-      <a href="https://arxiv.org/pdf/2306.06534.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <a href="https://github.com/Hanchao-Zhang/KTensors" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">GitHub</a>
-      <a href="https://pypi.org/project/KTensors/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Package</a>
-      <a href="assets/files/KTensors.bib" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTeX</a>
-      <strong><i style="color:#7b5aa6">arXiv.org</i></strong>
-    </div> -->
+    <div class="title"><a href="https://github.com/AdeebaRafi/ssalon">Salon Booking Application</a></div>
+    <div class="author"><strong>Home service booking platform with AI chatbot support</strong></div>
+    <div class="periodical"><em>Flutter, Firebase, HTML/Bootstrap</em></div>
   </div>
 </div>
 </li>
-
 
 <li>
 <div class="pub-row">
-
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/2023CDC.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">CDC</abbr>
+    <img src="assets/img/translation-app.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">NLP</abbr>
   </div>
-
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://arxiv.org/pdf/2309.13155.pdf">Multi-Agent Reach-Avoid Games: Two Attackers Versus One Defender and Mixed Integer Programming</a></div>
-    <div class="author"><strong>Hanyang Hu, Minh Bui, Mo Chen</strong></div>
-    <div class="periodical"><em>2023 62nd IEEE Conference on Decision and Control (CDC), 13-15 Dec. 2023.</em></div>
-    <!-- <div class="links">
-    <a href="https://arxiv.org/abs/2306.06534" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
-      <a href="https://arxiv.org/pdf/2306.06534.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <a href="https://github.com/Hanchao-Zhang/KTensors" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">GitHub</a>
-      <a href="https://pypi.org/project/KTensors/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Package</a>
-      <a href="assets/files/KTensors.bib" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTeX</a>
-      <strong><i style="color:#7b5aa6">arXiv.org</i></strong>
-    </div> -->
+    <div class="title"><a href="https://github.com/AdeebaRafi/AI_chatbot.git">Multilingual Translation App</a></div>
+    <div class="author"><strong>Real-time text translation using NLP models</strong></div>
+    <div class="periodical"><em>Streamlit, Hugging Face, Python</em></div>
   </div>
 </div>
 </li>
 
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/tax-chatbot.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">Hackathon</abbr>
+  </div>
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://lablab.ai/event/hack-the-loop/ai-enthusiast/voice-assistant-for-system-automation">AI Tax Assistant Chatbot</a></div>
+    <div class="author"><strong>DOGE Hackathon: Frontend development for tax consultation AI</strong></div>
+    <div class="periodical"><em>Flask, BERT, PostgreSQL</em></div>
+  </div>
+</div>
+</li>
 
-<br>
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/space-habitat.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">NASA</abbr>
+  </div>
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://lablab.ai/event/aistronauts-space-agents-on-a-mission/stellar-ai/smart-space-habitat-manager?review=true">Smart Space Habitat Manager</a></div>
+    <div class="author"><strong>AIstronauts Hackathon: AI system for space habitat management</strong></div>
+    <div class="periodical"><em>Team Project</em></div>
+  </div>
+</div>
+</li>
 
 </ol>
 </div>
