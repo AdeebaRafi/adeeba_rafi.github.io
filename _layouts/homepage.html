@@ -34,7 +34,7 @@
     <header>
 
       {% if site.avatar %}
-      <a class="image avatar"><img src="{{ site.avatar }}" alt="avatar" /> </a>
+<a class="image avatar"><img src="photo.png" alt="Adeeba's photo" /></a>
       {% endif %}
       <br>
       {% if site.logo %}
@@ -84,33 +84,22 @@
       <br>
       <br>
       <div class="social-icons">
-        {% if site.google_scholar %}
-        <a style="margin: 0 5px 0 0" href="{{ site.google_scholar }}">
-          <i class="ai ai-google-scholar" style="font-size:1.2rem"></i>
+
+        {% if site.linkedin %}
+        <a style="margin: 0 5px 0 0" href="https://www.linkedin.com/in/adeeba-rafi/">
+          <i class="fab fa-linkedin"></i>
         </a>
         {% endif %}
 
         {% if site.cv_link %}
-        <a style="margin: 0 5px 0 0" href="{{ site.cv_link }}">
+        <a style="margin: 0 5px 0 0" href="adeeba CV.docx.pdf">
           <i class="ai ai-cv" style="font-size:1.3rem;"></i>
         </a>
         {% endif %}
 
         {% if site.github_link %}
-        <a style="margin: 0 5px 0 0" href="{{ site.github_link }}">
+        <a style="margin: 0 5px 0 0" href="https://github.com/AdeebaRafi">
           <i class="fab fa-github"></i>
-        </a>
-        {% endif %}
-
-        {% if site.linkedin %}
-        <a style="margin: 0 5px 0 0" href="{{ site.linkedin }}">
-          <i class="fab fa-linkedin"></i>
-        </a>
-        {% endif %}
-
-        {% if site.twitter %}
-        <a style="margin: 0 0 0 0" href="{{ site.twitter }}">
-          <i class="fab fa-twitter"></i>
         </a>
         {% endif %}
       </div>
