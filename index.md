@@ -28,3 +28,13 @@ I love competing not to win every time, but to keep learning. Every challenge te
 Taught Python and C++ to 100+ underprivileged students, helping them understand basic concepts and build a strong foundation.
 
 As a graphic designer, I’ve created posters and event visuals for my university since 2020 to help make STEM feel more engaging and creative.
+
+## Leadership
+- Led multiple hackathon teams, guiding idea execution, task division, and presentations
+- Organized and hosted webinars and seminars at university to help peers learn new tech trends
+- Assisted students during STEM exhibitions by helping them with setup, presentations, and audience interaction
+- Regularly help classmates and juniors with project guidance and academic questions
+- Volunteer mentor for coding workshops and campus events
+- Contributed as a core team member in university societies, helping with event planning and coordination
+
+## Thanks for visiting my page. I hope you have a great day!
