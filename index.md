@@ -15,6 +15,7 @@ I also enjoy designing social media posters and visual content.
 - Machine Learning  
 - Human-Computer Interaction (HCI)  
 - Robotics
+- Software Engineering
 
 ## Coding Competitions
 I love competing not to win every time, but to keep learning. Every challenge teaches me something new, and I show up consistently because that’s how I grow.
