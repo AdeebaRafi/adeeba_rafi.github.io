@@ -6,7 +6,7 @@ layout: homepage
 
 I completed my Bachelor's in Computer Science from Hazara University, KPK, Pakistan in September 2024. I believe in consistency. I aim to improve at least 1% every day by learning something new.
 
-Outside of tech, I love playing badminton — it keeps me active and fresh. I’m also trying to build a habit of reading. Currently I am reading the book *Think and Grow Rich*, and yes, I’m still on chapter 3. (Still working to build my habit of reading books :)  
+Outside of tech, I love playing badminton because it keeps me active and fresh. I’m also trying to build a habit of reading. Currently I am reading the book *Think and Grow Rich*, and yes, I’m still on chapter 3. (Still working to build my habit of reading books :)  
 I also enjoy designing social media posters and visual content.
 
 ## Research Interests
